@@ -1,0 +1,52 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.page{
+    background-image:url(https://media1.tenor.com/m/h31_rsjCSr8AAAAC/space-calatop.gif);
+    background-size: cover;
+    height: 600px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image img{
+    width: 400px;
+}
+.image{
+    background-color:transparent;
+    width: 400px;
+}
+h1{
+    /* color: rgb(152, 146, 146); */
+    color: white;
+    font-size: 50px;
+}
+.underline-text{
+    text-decoration: underline;
+    text-decoration-color: salmon;
+}
+button{
+    background-color: rgb(221, 216, 216);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(13, 72, 182, 0.852);
+    box-shadow: 0 0 10px 0 rgba(13, 72, 182, 0.852);
+}
+footer{
+    text-align: center;
+    color: rgba(13, 72, 182, 0.852);
+    font-size:x-large;
+    padding: 1em;
+    font-weight: bolder;
+    background-color: silver;
+}
