@@ -1,3 +1,9 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
 .page{
     background-image:url(https://media1.tenor.com/m/h31_rsjCSr8AAAAC/space-calatop.gif);
     background-size: cover;
